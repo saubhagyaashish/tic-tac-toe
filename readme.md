@@ -7,7 +7,7 @@
 ### Links
 
 - Solution URL: [Solution](https://github.com/saubhagyaashish/tic-tac-toe)
-- Live Site URL: [Live URL](https://saubhagyaashish.github.io/tictactoe/)
+- Live Site URL: [Live URL](https://saubhagyaashish.github.io/tic-tac-toe/)
 
 
 
